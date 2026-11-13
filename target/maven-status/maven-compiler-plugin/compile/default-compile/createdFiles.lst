@@ -1,0 +1,15 @@
+ec\edu\espoch\yasuni\objects\Assignment.class
+ec\edu\espoch\yasuni\objects\Device.class
+ec\edu\espoch\yasuni\objects\SeveralTrail.class
+ec\edu\espoch\yasuni\daointerface\InterfaceInterpretiveTours.class
+ec\edu\espoch\yasuni\objects\Tour.class
+ec\edu\espoch\yasuni\datasource\Assignments.class
+ec\edu\espoch\yasuni\datasource\RegularTours.class
+ec\edu\espoch\yasuni\datasource\Tours.class
+ec\edu\espoch\yasuni\Yasuni.class
+ec\edu\espoch\yasuni\objects\Guide.class
+ec\edu\espoch\yasuni\daointerface\InterfaceAssignment.class
+ec\edu\espoch\yasuni\daointerface\InterfaceRegularTours.class
+ec\edu\espoch\yasuni\objects\RegularTour.class
+ec\edu\espoch\yasuni\datasource\InterpretiveTours.class
+ec\edu\espoch\yasuni\objects\InterpretiveTour.class
